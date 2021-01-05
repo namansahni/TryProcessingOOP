@@ -1,4 +1,4 @@
 TryProcessingOOP.java
  TryProcessingOOP
-EllipseMaker.java
- EllipseMaker
+Circle.java
+ Circle
