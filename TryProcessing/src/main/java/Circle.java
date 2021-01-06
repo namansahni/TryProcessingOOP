@@ -1,6 +1,6 @@
 import processing.core.PApplet;
 
-public class Circle extends PApplet {
+public class Circle {
 
     private float xCoordinate;
     private float yCoordinate;
